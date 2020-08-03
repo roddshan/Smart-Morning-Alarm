@@ -7,4 +7,4 @@ I made this project because I am very lazy and because of this habit I get late 
 For full details and instructions
 visit
     https://www.hackster.io/rahulkumarrahulkumaryadav/smart-morning-alarm-06e696
-    youtube.com/watch?v=-QwrtAfIZLQ&t=3s
+    https://www.youtube.com/watch?v=-QwrtAfIZLQ&t=3s
